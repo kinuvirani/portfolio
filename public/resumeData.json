@@ -3,12 +3,12 @@
     "name": "Kiran Virani",
     "occupation": "Mern Stack Developer",
     "description": "Code done by think, think come by mind, mind run by eat",
-    "image": "kiran1.jpg",
+    "image": "kiran.jpg",
     "bio": "Hi there! I am Kiran Virani! I am a MERN stack Developer, I have started my profession life journey from december 2018. It's really awesome experience as a software developer and now I just love to do code and I like to make code for every single thought, I am also working as a Freelancer excluding my full time job. I can say myself fluent with node.js and react.js technology. Including all this I am also learning new frameworks and also react native. I like to Read novels/articles, Learn new things, accept challenges and help needy people.",
     "email": "kiran.virani1997@gmail.com",
-    "phone": "+91 9512596664",
+    "phone": "+91 7567530278",
     "address": {
-      "street": "Punagam",
+      "street": "Varachha",
       "city": "Surat",
       "state": "Gujarat",
       "zip": "395006"
@@ -69,7 +69,7 @@
         "description": "Working as a Mern stack developer"
       },
       {
-        "company": "Coruscate Solution Company",
+        "company": "Lanet Company",
         "title": "MERN stack Developer",
         "years": "Dec 2018 - Jun 2020",
         "description": "Worked as a Mern stack developer"
