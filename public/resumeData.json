@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name": "Kiran Virani",
+    "occupation": "Mern Stack Developer",
+    "description": "Code done by think, think come by mind, mind run by eat",
+    "image": "kiran1.jpg",
+    "bio": "Hi there! I am Kiran Virani! I am a MERN stack Developer, I have started my profession life journey from december 2018. It's really awesome experience as a software developer and now I just love to do code and I like to make code for every single thought, I am also working as a Freelancer excluding my full time job. I can say myself fluent with node.js and react.js technology. Including all this I am also learning new frameworks and also react native. I like to Read novels/articles, Learn new things, accept challenges and help needy people.",
+    "email": "kiran.virani1997@gmail.com",
+    "phone": "+91 9512596664",
+    "address": {
+      "street": "Punagam",
+      "city": "Surat",
+      "state": "Gujarat",
+      "zip": "395006"
+    },
+    "contactmessage":"Contact Us",
+    "website": "https://www.papareact.com/course",
+    "resumedownload": "kiran.pdf",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/kinu.virani.3/",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/kiran-virani-a044ba101/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://instagram.com/kinu_virani12",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/kinuvirani",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "My Programming Language Proficiency",
+    "education": [
+      {
+        "school": "Gujarat Technological University",
+        "degree": "Bachelor's Degree, Computer Engineering",
+        "graduated": "May 2019",
+        "description": "Graduated with distinction honours"
+      },
+      {
+        "school": "Gujarat Technological University",
+        "degree": "Diploma in Computer Engineering",
+        "graduated": "May 2016",
+        "description": "Graduated with distinction Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "Logicwind Company",
+        "title": "Javascript Developer",
+        "years": "Sept 2020 - Present",
+        "description": "Working as a Node.js Developer"
+      },
+      {
+        "company": "Freelancer",
+        "title": "MERN stack Developer",
+        "years": "Jun 2020 - Present",
+        "description": "Working as a Mern stack developer"
+      },
+      {
+        "company": "Coruscate Solution Company",
+        "title": "MERN stack Developer",
+        "years": "Dec 2018 - Jun 2020",
+        "description": "Worked as a Mern stack developer"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React Js",
+        "level": "90%"
+      },
+      {
+        "name": "Node Js",
+        "level": "95%"
+      },
+      {
+        "name": "Git",
+        "level": "90%"
+      },
+      {
+        "name": "JavaScript",
+        "level": "100%"
+      },
+      {
+        "name": "PHP",
+        "level": "70%"
+      },
+      {
+        "name": "HTML",
+        "level": "80%"
+      },
+      {
+        "name": "CSS",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Short Link Generator",
+        "category": "",
+        "image": "tiny-url.png",
+        "url": "https://tiny-url-virid.vercel.app/"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Sonny is absolutely excellent, his depth of knowledge & his mentorship really meant a lot to us... I would definitely recommend",
+        "user": "Jorge Fouto"
+      },
+      {
+        "text": "Learning with Sonny has been AWESOME, he makes learning React so easy and approachable, you'll finally feel like you know what's going on!",
+        "user": "Adam Curtis"
+      }
+    ]
+  }
+}
