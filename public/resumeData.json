@@ -113,6 +113,12 @@
         "category": "",
         "image": "tiny-url.png",
         "url": "https://tiny-url-virid.vercel.app/"
+      },
+      {
+        "title": "Chatbot",
+        "category": "",
+        "image": "chatbot.png",
+        "url": "https://chatbot-eta.vercel.app/"
       }
     ]
   },
